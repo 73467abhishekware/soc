@@ -1,0 +1,6 @@
+@SOC_HostAddress = http://localhost:5005
+
+GET {{SOC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
